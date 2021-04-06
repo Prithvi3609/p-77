@@ -1,0 +1,15 @@
+console.log("My first console project") ;
+var name=Prithviraj ;
+var lastnme=Tandon;
+var result=name.Concat(lastnme);
+console.log(result);
+var t=2;
+var f=4;
+var add= t + f;
+console.log(add);
+var sub= t - f;
+console.log(sub);
+var multiplication= t * f;
+console.log(multiplication);
+var division= t / f;
+console.log(division);
